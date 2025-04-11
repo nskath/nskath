@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-<!--
-**nskath/nskath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+[![GitHub](https://img.shields.io/badge/GitHub-%40nskath-239a3b.svg)](https://github.com/nskath)
+[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/navtejk/)
+[![Website](![image](https://github.com/user-attachments/assets/b2df0c85-ba5a-43aa-98f5-8fc64aeb0f6a)](https://nskath.github.io)
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
